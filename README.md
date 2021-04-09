@@ -1,10 +1,6 @@
-Onur Sevindik \n
-**Global AI Hub** \n
-Python Course Repo
+## Onur Sevindik **Global AI Hub** Python Course Repo
 
 ![](img/newlogo.png)
-
----
 
 **Course Date:** 05-09.04.2021  
 **Name:** Onur
