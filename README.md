@@ -1,9 +1,9 @@
-## Onur Sevindik **Global AI Hub** Python Course Repo
+# Onur Sevindik **Global AI Hub** Python Course Repo
 
 ![](img/newlogo.png)
 
 **Course Date:** 05-09.04.2021  
-**Name:** Onur
+**Name:** Onur  
 **Surname:** Sevindik  
 **Email:** sevindik.onur@gmail.com  
 
@@ -16,8 +16,8 @@
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+Some python libraries  
+Some python libraries  
+Some python libraries  
 ```
 ---
