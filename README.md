@@ -1,4 +1,6 @@
-Onur Sevindik Global AI Hub Python Course Repo
+## Onur Sevindik 
+## **Global AI Hub** 
+## Python Course Repo
 ---
 ![](img/newlogo.png)
 ---
