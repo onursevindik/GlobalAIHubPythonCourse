@@ -1,4 +1,5 @@
 # Onur Sevindik **Global AI Hub** Python Course Repo
+:---:
 
 ![](img/newlogo.png)
 
