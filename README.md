@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+Onur Sevindik Global AI Hub Python Course Repo
 ---
 ![](img/newlogo.png)
 ---
@@ -16,4 +16,3 @@ Some python libraries
 Some python libraries
 Some python libraries
 ```
----
