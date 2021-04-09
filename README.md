@@ -11,11 +11,11 @@
 ---
 
 ## Project Name
-**Description of your project.**
+**Description** of your ***project***.
 
 ---
 
-### Requirements
+## Requirements
 ```
 Some python libraries  
 Some python libraries  
